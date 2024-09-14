@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-My name is Ivan 
+
+### My name is Ivan 
 
 Here are some ideas to get you started:
 
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
                        Mail: I.burov2003@yandex.ru
 
 
--->
